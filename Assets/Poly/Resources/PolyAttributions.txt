@@ -1,0 +1,37 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Boulder
+Author: Poly by Google
+URL: https://poly.google.com/view/3jql0qtape-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Flying saucer
+Author: Poly by Google
+URL: https://poly.google.com/view/fojR5i3h_nh
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Gem
+Author: Poly by Google
+URL: https://poly.google.com/view/09p9-Mnp4Sc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Heart
+Author: Poly by Google
+URL: https://poly.google.com/view/8RA5hHU5gHK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lightning Bolt
+Author: Jarlan Perez
+URL: https://poly.google.com/view/7I1IhiE7O8s
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Satellite
+Author: Poly by Google
+URL: https://poly.google.com/view/2i9NPgZ-ALP
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
